@@ -1,5 +1,26 @@
 # Changelog
 
+## [2025.3.7](https://github.com/jdx/mise/compare/v2025.3.6..v2025.3.7) - 2025-03-19
+
+### 🐛 Bug Fixes
+
+- **(node)** skip gpg verification of sig file not found by [@jdx](https://github.com/jdx) in [#4663](https://github.com/jdx/mise/pull/4663)
+- **(task)** allow args to be used with tera tests by [@risu729](https://github.com/risu729) in [#4605](https://github.com/jdx/mise/pull/4605)
+
+### ◀️ Revert
+
+- "chore: temporarily disable bootstrap test" by [@jdx](https://github.com/jdx) in [#4658](https://github.com/jdx/mise/pull/4658)
+
+### 📦️ Dependency Updates
+
+- update rust crate ctor to 0.4 by [@renovate[bot]](https://github.com/renovate[bot]) in [#4553](https://github.com/jdx/mise/pull/4553)
+
+### Chore
+
+- Update to the latest version of ubi by [@autarch](https://github.com/autarch) in [#4648](https://github.com/jdx/mise/pull/4648)
+- bump expr by [@jdx](https://github.com/jdx) in [#4666](https://github.com/jdx/mise/pull/4666)
+- added android-sdk by [@jdx](https://github.com/jdx) in [#4668](https://github.com/jdx/mise/pull/4668)
+
 ## [2025.3.6](https://github.com/jdx/mise/compare/v2025.3.5..v2025.3.6) - 2025-03-18
 
 ### Chore
